@@ -1,0 +1,20 @@
+body{
+    background: #000000;
+    color: #ffffff;
+}
+
+#App{
+    display: inline;
+    padding: 5%;
+    text-align: center;
+    margin: 10px;
+} 
+
+#AppTitle{
+    font-size: large;
+    font-size: 26px;
+}
+
+#profile{
+    margin: 25px;
+}
